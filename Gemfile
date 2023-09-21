@@ -12,3 +12,5 @@ end
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
 
+# added by RN
+gem 'faraday-retry', '~> 2.2'
