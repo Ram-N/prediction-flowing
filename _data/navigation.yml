@@ -1,17 +1,13 @@
-- title: Start
-  url: "/"
-  side: left
-
 - title: Contest
-  url: "/contest/"
+  url: "/"
   side: left
   dropdown:
     - title: "Rules"
-      url: "/contest/rules/"
+      url: "/icc2023/rules/"
     - title: "Entry Form"
-      url: "/contest/entry/"
+      url: "/icc2023/entry/"
     - title: "Predictions"
-      url: "/contest/predictions"
+      url: "/icc2023/predictions"
 
 - title: Leaderboard
   url: "/leaderboard/"

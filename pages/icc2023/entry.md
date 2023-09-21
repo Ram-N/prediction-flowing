@@ -6,7 +6,7 @@ subheadline: "Use this to submit your predictions"
 teaser: "Use this to submit your predictions"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
-permalink: "/contest/entry/"
+permalink: "/icc2023/entry/"
 ---
 
 # Link to Google Forms here.

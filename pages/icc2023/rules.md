@@ -5,7 +5,7 @@ meta_title: "Rules for this Prediction Contest"
 teaser: "Can you correctly predict the World Cup Qaulifiers, Semifinalists and the Champion?"
 header:
    image_fullwidth: "header_unsplash_9.jpg"
-permalink: "/contest/rules"
+permalink: "/icc2023/rules"
 ---
 
 
